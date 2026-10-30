@@ -1,0 +1,1133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EO-BOTS\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: assets/js/creator.js
+msgid "%1$s, your EO-BOT %2$s"
+msgstr "%1$s, ton EO-BOT %2$s"
+
+#: includes/class-policy.php
+msgid "%1$s: “%2$s”"
+msgstr "%1$s : « %2$s »"
+
+#: assets/js/widget.js
+msgid "%s follows these notes in every conversation, for everyone on the site."
+msgstr "%s suit ces notes dans chaque conversation, pour tout le monde sur le site."
+
+#: includes/class-notes.php
+msgid "A note is %d characters at most: keep one short rule per note."
+msgstr "Une note fait %d caractères au maximum : une règle courte par note."
+
+#: assets/js/widget.js
+msgid "A rule to follow, e.g. “Buttons always say Book now”"
+msgstr "Une règle à suivre, ex. « Les boutons disent toujours Réserver »"
+
+#: assets/js/widget.js
+msgid "A text to proofread? Click me!"
+msgstr "Un texte à relire ? Clique sur moi !"
+
+#: assets/js/creator.js
+msgid "AI model"
+msgstr "Modèle d’IA"
+
+#: assets/js/creator.js
+msgid "Accessory"
+msgstr "Accessoire"
+
+#: includes/class-admin.php
+msgid "Active"
+msgstr "Actif"
+
+#: assets/js/widget.js
+msgid "Add"
+msgstr "Ajouter"
+
+#: includes/class-admin.php
+msgid "Admin"
+msgstr "Admin"
+
+#: includes/integrations/class-yoast.php
+msgid "Analyze the SEO of a page"
+msgstr "Analyser le SEO d’une page"
+
+#: includes/integrations/class-yoast.php
+msgid "Analyzing the SEO of the page…"
+msgstr "J’analyse le SEO de la page…"
+
+#: includes/integrations/class-yoast.php
+msgid "Analyzing the SEO of your site…"
+msgstr "J’analyse le SEO de ton site…"
+
+#: assets/js/creator.js
+msgid "Animal"
+msgstr "Animal"
+
+#: includes/class-agent.php
+msgid "Answer my question above first."
+msgstr "Réponds d’abord à ma question juste au-dessus."
+
+#: includes/class-avatar.php
+msgid "Apple"
+msgstr "Pomme"
+
+#: assets/js/widget.js
+msgid "Ask %s…"
+msgstr "Demande à %s…"
+
+#: assets/js/creator.js
+msgid "Automatic (recommended)"
+msgstr "Automatique (recommandé)"
+
+#: includes/class-avatar.php
+msgid "Beanie"
+msgstr "Bonnet"
+
+#: includes/class-avatar.php
+msgid "Beret"
+msgstr "Béret"
+
+#: includes/class-avatar.php
+msgid "Bow"
+msgstr "Nœud"
+
+#: includes/class-avatar.php
+msgid "Bowler hat"
+msgstr "Chapeau melon"
+
+#: includes/abilities/class-site.php
+msgid "Browsing the theme patterns…"
+msgstr "Je parcours les compositions du thème…"
+
+#: includes/abilities/class-site-editor.php
+msgid "Building a menu…"
+msgstr "Je construis un menu…"
+
+#: assets/js/widget.js
+msgid "Cancel"
+msgstr "Annuler"
+
+#: assets/js/widget.js
+msgid "Cancelled, I did not touch anything."
+msgstr "Annulé, je n’ai touché à rien."
+
+#: includes/abilities/class-code.php
+msgid "Careful: this code uses sensitive functions (%s). Only say yes if you trust what it does."
+msgstr "Attention : ce code utilise des fonctions sensibles (%s). Ne dis oui que si tu as confiance dans ce qu’il fait."
+
+#: includes/class-avatar.php
+msgid "Cat"
+msgstr "Chat"
+
+#: includes/abilities/class-site.php
+msgid "Checking the available blocks…"
+msgstr "Je vérifie les blocs disponibles…"
+
+#: includes/abilities/class-content.php
+msgid "Checking the design…"
+msgstr "Je vérifie le design…"
+
+#: assets/js/creator.js
+msgid "Click to rename"
+msgstr "Clique pour le renommer"
+
+#: assets/js/widget.js
+msgid "Close"
+msgstr "Fermer"
+
+#: assets/js/creator.js
+msgid "Color"
+msgstr "Couleur"
+
+#: assets/js/creator.js assets/js/widget.js
+msgid "Connect an AI"
+msgstr "Connecter une IA"
+
+#: includes/class-rest.php
+msgid "Conversation not found."
+msgstr "Conversation introuvable."
+
+#: assets/js/widget.js
+msgid "Conversations"
+msgstr "Conversations"
+
+#: includes/class-avatar.php
+msgid "Coral"
+msgstr "Corail"
+
+#: includes/abilities/class-content.php
+msgid "Create a draft"
+msgstr "Créer un brouillon"
+
+#: includes/abilities/class-site-editor.php
+msgid "Create a menu"
+msgstr "Créer un menu"
+
+#: assets/js/widget.js
+msgid "Create an “About” page"
+msgstr "Crée une page « À propos »"
+
+#: assets/js/creator.js includes/class-admin.php
+msgid "Create my EO-BOT"
+msgstr "Créer mon EO-BOT"
+
+#: assets/js/creator.js
+msgid "Create your EO-BOT"
+msgstr "Crée ton EO-BOT"
+
+#: includes/class-avatar.php
+msgid "Crown"
+msgstr "Couronne"
+
+#: assets/js/creator.js
+msgid "Customize your EO-BOT"
+msgstr "Personnalise ton EO-BOT"
+
+#: includes/class-design-charter.php
+msgid "Default template"
+msgstr "Modèle par défaut"
+
+#: includes/class-admin.php
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/abilities/class-code.php
+msgid "Delete a snippet"
+msgstr "Supprimer un snippet"
+
+#: includes/abilities/class-code.php
+msgid "Delete the snippet “%s”"
+msgstr "Supprimer le snippet « %s »"
+
+#: assets/js/widget.js
+msgid "Delete this conversation"
+msgstr "Supprimer cette conversation"
+
+#: assets/js/widget.js
+msgid "Delete this note"
+msgstr "Supprimer cette note"
+
+#: includes/class-avatar.php
+msgid "Dog"
+msgstr "Chien"
+
+#: assets/js/widget.js
+msgid "Done! Click me to see."
+msgstr "C’est fait ! Clique sur moi pour voir."
+
+#: assets/js/widget.js
+msgid "Done, you said yes."
+msgstr "C’est fait, tu as dit oui."
+
+#: includes/class-admin.php
+msgid "Done."
+msgstr "C’est fait."
+
+#: includes/abilities/class-content.php
+msgid "Draft “%s” created"
+msgstr "Brouillon « %s » créé"
+
+#: includes/abilities/class-registry.php includes/class-admin.php
+msgid "EO-BOTS"
+msgstr "EO-BOTS"
+
+#: eo-bots.php
+msgid "EO-BOTS needs WordPress 7.0 or later."
+msgstr "EO-BOTS nécessite WordPress 7.0 ou plus récent."
+
+#: includes/class-snippets.php
+msgid "EO-BOTS safe mode"
+msgstr "Mode secours EO-BOTS"
+
+#: includes/class-admin.php
+msgid "EO-BOTS snippets"
+msgstr "Snippets EO-BOTS"
+
+#: assets/js/widget.js
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/abilities/class-site-editor.php
+msgid "Edit a menu"
+msgstr "Modifier un menu"
+
+#: includes/abilities/class-code.php
+msgid "Edit a snippet"
+msgstr "Modifier un snippet"
+
+#: includes/abilities/class-site-editor.php
+msgid "Edit a template"
+msgstr "Modifier un modèle"
+
+#: includes/abilities/class-content.php
+msgid "Edit content"
+msgstr "Modifier un contenu"
+
+#: includes/abilities/class-code.php
+msgid "Edit the active snippet “%s”"
+msgstr "Modifier le snippet actif « %s »"
+
+#: includes/abilities/class-site-editor.php
+msgid "Edit the menu “%s”"
+msgstr "Modifier le menu « %s »"
+
+#: assets/js/widget.js
+msgid "Edit this note"
+msgstr "Modifier cette note"
+
+#: includes/abilities/class-content.php
+#: includes/abilities/class-site-editor.php
+msgid "Edit “%s”"
+msgstr "Modifier « %s »"
+
+#: includes/abilities/class-code.php
+msgid "Editing the code…"
+msgstr "Je modifie le code…"
+
+#: includes/abilities/class-content.php
+msgid "Editing the page…"
+msgstr "Je modifie la page…"
+
+#: includes/abilities/class-site-editor.php
+msgid "Editing the template…"
+msgstr "Je modifie le modèle…"
+
+#: includes/abilities/class-memory.php
+msgid "Erasing the note…"
+msgstr "J’efface la note…"
+
+#: includes/class-admin.php
+msgid "Everywhere"
+msgstr "Partout"
+
+#: includes/abilities/class-site.php
+msgid "Find block examples"
+msgstr "Trouver des exemples de blocs"
+
+#: assets/js/widget.js
+msgid "Finishing what I started…"
+msgstr "Je termine ce que j’avais commencé…"
+
+#: assets/js/widget.js
+msgid "Fix the typos on this page"
+msgstr "Corrige les fautes de cette page"
+
+#: includes/integrations/class-yoast.php
+msgid "Focus keyphrase “%1$s” set on “%2$s”"
+msgstr "Requête cible « %1$s » définie sur « %2$s »"
+
+#: includes/abilities/class-memory.php
+msgid "Forget a note"
+msgstr "Oublier une note"
+
+#: includes/abilities/class-memory.php
+msgid "Forget this note?"
+msgstr "Oublier cette note ?"
+
+#: includes/abilities/class-memory.php
+msgid "Forgotten: “%s”"
+msgstr "Oublié : « %s »"
+
+#: includes/class-avatar.php
+msgid "Fox"
+msgstr "Renard"
+
+#: includes/class-avatar.php
+msgid "Glasses"
+msgstr "Lunettes"
+
+#: assets/js/creator.js
+msgid "Ha ha!"
+msgstr "Ha ha !"
+
+#: includes/class-avatar.php
+msgid "Headphones"
+msgstr "Casque audio"
+
+#: assets/js/creator.js
+msgid "Hee hee!"
+msgstr "Hihi !"
+
+#: assets/js/creator.js
+msgid "Hey! That tickles!"
+msgstr "Hé ! Ça chatouille !"
+
+#: assets/js/widget.js
+msgid "Hey, click me to manage your site!"
+msgstr "Hey, clique sur moi pour gérer ton site !"
+
+#: assets/js/creator.js
+msgid "Hi, I am %s!"
+msgstr "Coucou, moi c’est %s !"
+
+#: assets/js/widget.js
+msgid "Hi, I am %s! What can I do for you?"
+msgstr "Coucou, moi c’est %s ! Qu’est-ce que je peux faire pour toi ?"
+
+#: assets/js/widget.js
+msgid "I am getting bored… Shall we get to work?"
+msgstr "Je m’ennuie un peu… On se met au travail ?"
+
+#: includes/class-rest.php
+msgid "I am still working on your previous message. Give me a moment."
+msgstr "Je travaille encore sur ton message précédent. Laisse-moi un instant."
+
+#: includes/class-snippets.php
+msgid "I could not load your site to test the snippet, so I did not switch it on. Your server may block requests to itself."
+msgstr "Je n’ai pas réussi à charger ton site pour tester le snippet, donc je ne l’ai pas activé. Ton serveur bloque peut-être les requêtes vers lui-même."
+
+#: assets/js/widget.js
+msgid "I could not open my memory."
+msgstr "Je n’arrive pas à ouvrir ma mémoire."
+
+#: assets/js/creator.js
+msgid "I could not save. Try again."
+msgstr "Je n’ai pas pu enregistrer. Réessaie."
+
+#: assets/js/widget.js
+msgid "I could not undo this."
+msgstr "Je n’ai pas pu annuler."
+
+#: includes/class-agent.php
+msgid "I did a lot of steps in a row, so I am pausing here. Tell me if I should go on."
+msgstr "J’ai enchaîné beaucoup d’étapes, je fais une pause ici. Dis-moi si je continue."
+
+#: assets/js/creator.js
+msgid "I just need a spark: an AI!"
+msgstr "Il me manque juste une étincelle : une IA !"
+
+#: assets/js/creator.js
+msgid "I live in the bottom right corner of your screen, on every page of your site. Click me to talk to me!"
+msgstr "J’habite en bas à droite de ton écran, sur toutes les pages de ton site. Clique sur moi pour me parler !"
+
+#: includes/class-agent.php
+msgid "I need a little break. Try again in a few minutes."
+msgstr "J’ai besoin d’une petite pause. Réessaie dans quelques minutes."
+
+#: assets/js/widget.js
+msgid "I need an AI to think. Click me!"
+msgstr "Il me faut une IA pour réfléchir. Clique sur moi !"
+
+#: assets/js/widget.js
+msgid "I need your OK to go on!"
+msgstr "J’ai besoin de ton accord pour continuer !"
+
+#: includes/abilities/class-code.php
+msgid "I test your site with it first: if anything breaks, it stays off."
+msgstr "Je teste d’abord ton site avec : si quelque chose casse, il reste désactivé."
+
+#: includes/class-admin.php
+msgid "If your site breaks"
+msgstr "Si ton site plante"
+
+#: assets/js/widget.js
+msgid "Improve this page"
+msgstr "Améliore cette page"
+
+#: includes/class-admin.php
+msgid "Inactive"
+msgstr "Inactif"
+
+#: includes/abilities/class-content.php
+msgid "It is visible on your site. I will change: %s. The current version stays in the revisions."
+msgstr "Ce contenu est visible sur ton site. Je vais modifier : %s. La version actuelle reste dans les révisions."
+
+#: includes/abilities/class-site-editor.php
+msgid "It shows on every page that uses it. You can undo it from the chat."
+msgstr "Le changement s’applique à toutes les pages qui l’utilisent. Tu pourras annuler depuis le chat."
+
+#: includes/abilities/class-code.php
+msgid "It stops running. You can undo it from the chat."
+msgstr "Il ne s’exécutera plus. Tu pourras annuler depuis le chat."
+
+#: includes/abilities/class-content.php
+msgid "It will be visible to every visitor."
+msgstr "Tous les visiteurs pourront le voir."
+
+#: includes/class-avatar.php
+msgid "Lagoon"
+msgstr "Lagon"
+
+#: includes/class-admin.php
+msgid "Last error: %s"
+msgstr "Dernière erreur : %s"
+
+#: assets/js/creator.js
+msgid "Later"
+msgstr "Plus tard"
+
+#: includes/class-avatar.php
+msgid "Lavender"
+msgstr "Lavande"
+
+#: assets/js/creator.js
+msgid "Let’s go!"
+msgstr "C’est parti !"
+
+#: includes/abilities/class-site.php
+msgid "List available blocks"
+msgstr "Lister les blocs disponibles"
+
+#: includes/abilities/class-site.php
+msgid "List block patterns"
+msgstr "Lister les compositions"
+
+#: includes/abilities/class-content.php
+msgid "List content"
+msgstr "Lister les contenus"
+
+#: includes/abilities/class-site-editor.php
+msgid "List the menus"
+msgstr "Lister les menus"
+
+#: includes/abilities/class-code.php
+msgid "List the snippets"
+msgstr "Lister les snippets"
+
+#: includes/abilities/class-site-editor.php
+msgid "List the templates"
+msgstr "Lister les modèles"
+
+#: assets/js/creator.js assets/js/widget.js
+msgid "Loading…"
+msgstr "Chargement…"
+
+#: includes/abilities/class-site.php
+msgid "Look at the site"
+msgstr "Faire le tour du site"
+
+#: includes/abilities/class-site.php
+msgid "Looking around the site…"
+msgstr "Je fais le tour du site…"
+
+#: includes/abilities/class-code.php
+msgid "Looking at the snippets…"
+msgstr "Je regarde les snippets…"
+
+#: includes/abilities/class-content.php
+msgid "Looking at your content…"
+msgstr "Je regarde tes contenus…"
+
+#: includes/abilities/class-site-editor.php
+msgid "Looking at your menus…"
+msgstr "Je regarde tes menus…"
+
+#: includes/abilities/class-site.php
+msgid "Looking for examples on your site…"
+msgstr "Je cherche des exemples sur ton site…"
+
+#: includes/abilities/class-site.php
+msgid "Looking for images…"
+msgstr "Je cherche des images…"
+
+#: assets/js/creator.js
+msgid "Manage AI providers"
+msgstr "Gérer les fournisseurs d’IA"
+
+#: assets/js/widget.js
+msgid "Memory"
+msgstr "Mémoire"
+
+#: includes/abilities/class-site-editor.php
+msgid "Menu “%s” created"
+msgstr "Menu « %s » créé"
+
+#: includes/abilities/class-site-editor.php
+msgid "Menu “%s” edited"
+msgstr "Menu « %s » modifié"
+
+#: includes/class-avatar.php
+msgid "Mint"
+msgstr "Menthe"
+
+#: includes/abilities/class-content.php
+msgid "Move to trash"
+msgstr "Mettre à la corbeille"
+
+#: includes/abilities/class-content.php
+msgid "Move “%s” to the trash"
+msgstr "Mettre « %s » à la corbeille"
+
+#: assets/js/creator.js includes/class-admin.php
+msgid "My EO-BOT"
+msgstr "Mon EO-BOT"
+
+#: assets/js/creator.js
+msgid "Name of your EO-BOT"
+msgstr "Nom de ton EO-BOT"
+
+#: assets/js/widget.js
+msgid "Need a new page? I can build it for you."
+msgstr "Besoin d’une nouvelle page ? Je peux la créer pour toi."
+
+#: assets/js/widget.js
+msgid "New conversation"
+msgstr "Nouvelle conversation"
+
+#: includes/abilities/class-site-editor.php
+msgid "New links: %s."
+msgstr "Nouveaux liens : %s."
+
+#: assets/js/widget.js
+msgid "New note"
+msgstr "Nouvelle note"
+
+#: assets/js/creator.js
+msgid "Next accessory"
+msgstr "Accessoire suivant"
+
+#: assets/js/creator.js
+msgid "Next animal"
+msgstr "Animal suivant"
+
+#: assets/js/creator.js
+msgid "Next color"
+msgstr "Couleur suivante"
+
+#: assets/js/creator.js includes/class-agent.php includes/class-rest.php
+msgid "No AI provider is connected yet."
+msgstr "Aucun fournisseur d’IA n’est encore connecté."
+
+#: assets/js/widget.js
+msgid "No conversation yet."
+msgstr "Pas encore de conversation."
+
+#: includes/class-admin.php
+msgid "No snippet yet. Ask your EO-BOT for example: “Hide the author name on blog posts” or “Add a shortcode that shows the current year”."
+msgstr "Aucun snippet pour l’instant. Demande par exemple à ton EO-BOT : « Cache le nom de l’auteur sur les articles » ou « Ajoute un shortcode qui affiche l’année en cours »."
+
+#: assets/js/widget.js
+msgid "No thanks"
+msgstr "Non merci"
+
+#: includes/abilities/class-memory.php
+msgid "Noted: “%s”"
+msgstr "Noté : « %s »"
+
+#: includes/class-avatar.php
+msgid "Nothing"
+msgstr "Rien"
+
+#: assets/js/widget.js
+msgid "Nothing yet."
+msgstr "Rien pour l’instant."
+
+#: assets/js/widget.js
+msgid "Nothing yet. When %s gets something wrong, correct it and say “remember this”."
+msgstr "Rien pour l’instant. Quand %s se trompe, corrige-le et dis-lui « retiens ça »."
+
+#: assets/js/creator.js
+msgid "OK"
+msgstr "OK"
+
+#: assets/js/creator.js
+msgid "One last thing: ask an administrator to connect an AI provider in Settings › Connectors."
+msgstr "Dernière étape : demande à un administrateur de connecter un fournisseur d’IA dans Réglages › Connecteurs."
+
+#: includes/class-agent.php
+msgid "Oops, I could not reach my AI. Try again in a moment."
+msgstr "Oups, je n’arrive pas à joindre mon IA. Réessaie dans un instant."
+
+#: includes/abilities/class-site-editor.php
+msgid "Opening the Site Editor…"
+msgstr "J’ouvre l’éditeur du site…"
+
+#: includes/class-admin.php
+msgid "PHP snippets are disabled on this site (file editing is turned off, or your account cannot edit plugins). CSS snippets still work."
+msgstr "Les snippets PHP sont désactivés sur ce site (l’édition de fichiers est bloquée, ou ton compte ne peut pas modifier les plugins). Les snippets CSS fonctionnent toujours."
+
+#: includes/class-avatar.php
+msgid "Panda"
+msgstr "Panda"
+
+#: assets/js/creator.js
+msgid "Pick at random"
+msgstr "Au hasard"
+
+#: assets/js/creator.js
+msgid "Previous accessory"
+msgstr "Accessoire précédent"
+
+#: assets/js/creator.js
+msgid "Previous animal"
+msgstr "Animal précédent"
+
+#: assets/js/creator.js
+msgid "Previous color"
+msgstr "Couleur précédente"
+
+#: includes/class-admin.php
+msgid "Public site"
+msgstr "Site public"
+
+#: includes/abilities/class-content.php
+msgid "Publish or unpublish"
+msgstr "Publier ou dépublier"
+
+#: includes/abilities/class-content.php
+msgid "Publish “%s”"
+msgstr "Publier « %s »"
+
+#: includes/abilities/class-content.php
+msgid "Putting the blocks together…"
+msgstr "J’assemble les blocs…"
+
+#: includes/class-avatar.php
+msgid "Rabbit"
+msgstr "Lapin"
+
+#: includes/class-avatar.php
+msgid "Raspberry"
+msgstr "Framboise"
+
+#: includes/abilities/class-site.php
+msgid "Read a block pattern"
+msgstr "Lire une composition"
+
+#: includes/abilities/class-site.php
+msgid "Read a plugin guide"
+msgstr "Lire la notice d’un plugin"
+
+#: includes/abilities/class-code.php
+msgid "Read a snippet"
+msgstr "Lire un snippet"
+
+#: includes/abilities/class-site-editor.php
+msgid "Read a template"
+msgstr "Lire un modèle"
+
+#: includes/abilities/class-content.php
+msgid "Read content"
+msgstr "Lire un contenu"
+
+#: includes/abilities/class-site.php
+msgid "Read the theme styles"
+msgstr "Lire les styles du thème"
+
+#: includes/abilities/class-code.php
+msgid "Read theme or plugin code"
+msgstr "Lire le code du thème ou d’un plugin"
+
+#: includes/abilities/class-content.php
+msgid "Reading a page…"
+msgstr "Je lis une page…"
+
+#: includes/abilities/class-code.php
+msgid "Reading the code…"
+msgstr "Je lis le code…"
+
+#: includes/abilities/class-code.php
+msgid "Reading the snippet…"
+msgstr "Je lis le snippet…"
+
+#: includes/abilities/class-site-editor.php
+msgid "Reading the template…"
+msgstr "Je lis le modèle…"
+
+#: includes/abilities/class-site.php
+msgid "Reading the user guide…"
+msgstr "Je lis la notice…"
+
+#: includes/abilities/class-site.php
+msgid "Reading your theme styles…"
+msgstr "Je lis les styles de ton thème…"
+
+#: assets/js/widget.js
+msgid "Ready to help"
+msgstr "Prêt à t’aider"
+
+#: includes/abilities/class-site-editor.php
+msgid "Rearranging the menu…"
+msgstr "Je réorganise le menu…"
+
+#: includes/abilities/class-memory.php
+msgid "Remember a note"
+msgstr "Retenir une note"
+
+#: includes/abilities/class-memory.php
+msgid "Remember this for the whole site?"
+msgstr "Retenir ceci pour tout le site ?"
+
+#: includes/abilities/class-site-editor.php
+msgid "Reset a template"
+msgstr "Réinitialiser un modèle"
+
+#: includes/abilities/class-site-editor.php
+msgid "Reset “%s” to the theme original"
+msgstr "Remettre « %s » comme dans le thème"
+
+#: includes/abilities/class-site-editor.php
+msgid "Restoring the theme original…"
+msgstr "Je remets la version du thème…"
+
+#: includes/abilities/class-content.php
+msgid "Review the design"
+msgstr "Relire le design"
+
+#: includes/integrations/class-yoast.php
+msgid "SEO report of the site"
+msgstr "Rapport SEO du site"
+
+#: includes/class-snippets.php
+msgid "Safe mode: %d PHP snippet(s) switched off. Your site works without them now."
+msgstr "Mode secours : %d snippet(s) PHP désactivé(s). Ton site fonctionne maintenant sans eux."
+
+#: assets/js/widget.js
+msgid "Save"
+msgstr "Enregistrer"
+
+#: assets/js/creator.js
+msgid "Saved"
+msgstr "Enregistré"
+
+#: includes/abilities/class-site.php
+msgid "Search the media library"
+msgstr "Chercher dans la médiathèque"
+
+#: includes/abilities/class-code.php
+msgid "Search theme or plugin code"
+msgstr "Chercher dans le code du thème ou d’un plugin"
+
+#: includes/abilities/class-code.php
+msgid "Searching the code…"
+msgstr "Je cherche dans le code…"
+
+#: assets/js/widget.js includes/class-admin.php
+msgid "See the code"
+msgstr "Voir le code"
+
+#: includes/class-admin.php includes/class-snippets.php
+msgid "See the snippets"
+msgstr "Voir les snippets"
+
+#: assets/js/widget.js
+msgid "Send"
+msgstr "Envoyer"
+
+#: includes/integrations/class-yoast.php
+msgid "Set the focus keyphrase"
+msgstr "Définir la requête cible"
+
+#: includes/integrations/class-yoast.php
+msgid "Setting the focus keyphrase…"
+msgstr "Je règle la requête cible…"
+
+#: includes/class-policy.php
+msgid "Settings changed: %s."
+msgstr "Réglages modifiés : %s."
+
+#: includes/class-avatar.php
+msgid "Sheep"
+msgstr "Mouton"
+
+#: assets/js/widget.js
+msgid "Show me around my site"
+msgstr "Fais-moi le tour de mon site"
+
+#: includes/class-avatar.php
+msgid "Slate"
+msgstr "Ardoise"
+
+#: includes/class-admin.php
+msgid "Small pieces of code your EO-BOT wrote for this site. They are kept here, not in your theme, so updates do not erase them. Ask your EO-BOT in the chat to write or change one."
+msgstr "Les petits morceaux de code écrits par ton EO-BOT pour ce site. Ils sont rangés ici et non dans ton thème, pour que les mises à jour ne les effacent pas. Demande à ton EO-BOT dans le chat d’en écrire ou d’en modifier un."
+
+#: includes/abilities/class-code.php
+msgid "Snippet “%s” deleted"
+msgstr "Snippet « %s » supprimé"
+
+#: includes/abilities/class-code.php
+msgid "Snippet “%s” edited"
+msgstr "Snippet « %s » modifié"
+
+#: includes/abilities/class-code.php
+msgid "Snippet “%s” switched off"
+msgstr "Snippet « %s » désactivé"
+
+#: includes/abilities/class-code.php
+msgid "Snippet “%s” switched on"
+msgstr "Snippet « %s » activé"
+
+#: includes/abilities/class-code.php
+msgid "Snippet “%s” written (switched off)"
+msgstr "Snippet « %s » écrit (désactivé)"
+
+#: includes/class-admin.php includes/class-snippets.php
+msgid "Snippets"
+msgstr "Snippets"
+
+#: assets/js/creator.js assets/js/widget.js
+msgid "Something went wrong."
+msgstr "Quelque chose s’est mal passé."
+
+#: includes/class-admin.php
+msgid "Sorry, you are not allowed to do that."
+msgstr "Désolé, tu n’as pas le droit de faire ça."
+
+#: assets/js/creator.js
+msgid "Stay here"
+msgstr "Rester ici"
+
+#: includes/abilities/class-site.php
+msgid "Studying a pattern…"
+msgstr "J’étudie une composition…"
+
+#: assets/js/widget.js
+msgid "Sum up this page"
+msgstr "Résume cette page"
+
+#: includes/class-avatar.php
+msgid "Sunshine"
+msgstr "Soleil"
+
+#: assets/js/creator.js
+msgid "Surprise!"
+msgstr "Surprise !"
+
+#: includes/abilities/class-code.php
+msgid "Switch a snippet on or off"
+msgstr "Activer ou désactiver un snippet"
+
+#: includes/class-admin.php
+msgid "Switch off"
+msgstr "Désactiver"
+
+#: includes/abilities/class-code.php
+msgid "Switch off the snippet “%s”"
+msgstr "Désactiver le snippet « %s »"
+
+#: includes/class-admin.php
+msgid "Switch on"
+msgstr "Activer"
+
+#: includes/abilities/class-code.php
+msgid "Switch on the snippet “%s”"
+msgstr "Activer le snippet « %s »"
+
+#: assets/js/widget.js
+msgid "Talk to %s"
+msgstr "Parler à %s"
+
+#: includes/class-avatar.php
+msgid "Tangerine"
+msgstr "Mandarine"
+
+#: includes/abilities/class-code.php
+msgid "Testing the snippet on your site…"
+msgstr "Je teste le snippet sur ton site…"
+
+#: includes/class-admin.php includes/class-snippets.php
+msgid "The folder %s cannot be written, so PHP snippets cannot run."
+msgstr "Le dossier %s n’est pas accessible en écriture : les snippets PHP ne peuvent pas fonctionner."
+
+#: includes/class-notes.php
+msgid "The memory is full (%d notes). Delete or merge some notes first."
+msgstr "La mémoire est pleine (%d notes). Supprime ou regroupe d’abord quelques notes."
+
+#: includes/class-notes.php
+msgid "The note is empty."
+msgstr "La note est vide."
+
+#: includes/class-snippets.php
+msgid "The snippet breaks the site, so I changed nothing: %s"
+msgstr "Le snippet casse le site, donc je n’ai rien changé : %s"
+
+#: includes/class-admin.php
+msgid "The snippet could not be deleted."
+msgstr "Le snippet n’a pas pu être supprimé."
+
+#: assets/js/widget.js
+msgid "Thinking…"
+msgstr "Je réfléchis…"
+
+#: includes/class-journal.php
+msgid "This action cannot be undone."
+msgstr "Cette action ne peut pas être annulée."
+
+#: includes/class-agent.php
+msgid "This action is no longer waiting for an answer."
+msgstr "Cette action n’attend plus de réponse."
+
+#: includes/class-journal.php
+msgid "This action no longer exists."
+msgstr "Cette action n’existe plus."
+
+#: includes/class-rest.php
+msgid "This model is not available."
+msgstr "Ce modèle n’est pas disponible."
+
+#: includes/class-notes.php
+msgid "This note no longer exists."
+msgstr "Cette note n’existe plus."
+
+#: includes/abilities/class-code.php includes/abilities/class-content.php
+msgid "Tidying up…"
+msgstr "Je range…"
+
+#: assets/js/creator.js
+msgid "To think, %s needs an AI. Connect a provider (Anthropic, OpenAI or Google) with your API key in Settings › Connectors. One key is enough for the whole site."
+msgstr "Pour réfléchir, %s a besoin d’une IA. Connecte un fournisseur (Anthropic, OpenAI ou Google) avec ta clé API dans Réglages › Connecteurs. Une seule clé suffit pour tout le site."
+
+#: assets/js/widget.js
+msgid "To think, I need an AI. Ask an administrator to connect one in Settings › Connectors."
+msgstr "Pour réfléchir, j’ai besoin d’une IA. Demande à un administrateur d’en connecter une dans Réglages › Connecteurs."
+
+#: assets/js/widget.js
+msgid "To think, I need an AI. Connect a provider with your API key, it takes two minutes."
+msgstr "Pour réfléchir, j’ai besoin d’une IA. Connecte un fournisseur avec ta clé API, ça prend deux minutes."
+
+#: includes/class-avatar.php
+msgid "Top hat"
+msgstr "Haut-de-forme"
+
+#: assets/js/widget.js
+msgid "Try again"
+msgstr "Réessayer"
+
+#: assets/js/widget.js
+msgid "Undo"
+msgstr "Annuler"
+
+#: assets/js/widget.js
+msgid "Undone"
+msgstr "Annulé"
+
+#: includes/abilities/class-content.php
+msgid "Unpublish “%s”"
+msgstr "Dépublier « %s »"
+
+#: includes/abilities/class-content.php
+msgid "Updating the status…"
+msgstr "Je change le statut…"
+
+#: assets/js/creator.js
+msgid "Used by the EO-BOTS of every user on this site. A bigger model is smarter but uses more credits."
+msgstr "Utilisé par les EO-BOTS de tous les utilisateurs du site. Un modèle plus puissant est plus malin, mais consomme plus de crédits."
+
+#: assets/js/widget.js
+msgid "View"
+msgstr "Voir"
+
+#: includes/abilities/class-content.php
+msgid "Visitors will no longer see it."
+msgstr "Les visiteurs ne le verront plus."
+
+#: includes/abilities/class-site-editor.php
+msgid "Visitors will see the change right away."
+msgstr "Les visiteurs verront le changement tout de suite."
+
+#: assets/js/widget.js
+msgid "Waiting for an AI"
+msgstr "En attente d’une IA"
+
+#: assets/js/widget.js
+msgid "What can you do?"
+msgstr "Qu’est-ce que tu sais faire ?"
+
+#: includes/abilities/class-code.php
+msgid "What it does will stop right away."
+msgstr "Ce qu’il fait s’arrêtera tout de suite."
+
+#: includes/abilities/class-registry.php
+msgid "What your EO-BOT can do on the site."
+msgstr "Ce que ton EO-BOT peut faire sur le site."
+
+#: includes/class-rest.php
+msgid "Write a message first."
+msgstr "Écris d’abord un message."
+
+#: includes/abilities/class-code.php
+msgid "Write a snippet"
+msgstr "Écrire un snippet"
+
+#: includes/abilities/class-code.php
+msgid "Writing code…"
+msgstr "J’écris du code…"
+
+#: includes/abilities/class-memory.php
+msgid "Writing it down…"
+msgstr "Je le note…"
+
+#: assets/js/widget.js
+msgid "Yes, go ahead"
+msgstr "Oui, vas-y"
+
+#: includes/class-admin.php
+msgid "You can also add <code>define( 'EOBOTS_SAFE_MODE', true );</code> to wp-config.php."
+msgstr "Tu peux aussi ajouter <code>define( 'EOBOTS_SAFE_MODE', true );</code> dans wp-config.php."
+
+#: includes/abilities/class-content.php
+msgid "You can restore it from the trash for 30 days."
+msgstr "Tu pourras le restaurer depuis la corbeille pendant 30 jours."
+
+#: includes/class-admin.php
+msgid "Your EO-BOT is waiting to be created."
+msgstr "Ton EO-BOT attend d’être créé."
+
+#: includes/class-admin.php
+msgid "Your EO-BOT needs JavaScript to come to life."
+msgstr "Ton EO-BOT a besoin de JavaScript pour prendre vie."
+
+#: includes/class-snippets.php
+msgid "Your EO-BOT switched off the snippet that caused this error. Reload the page."
+msgstr "Ton EO-BOT a désactivé le snippet qui causait cette erreur. Recharge la page."
+
+#: includes/class-admin.php
+msgid "Your EO-BOT switched off the snippet “%1$s” because it caused an error: %2$s"
+msgstr "Ton EO-BOT a désactivé le snippet « %1$s » car il provoquait une erreur : %2$s"
+
+#: includes/class-admin.php
+msgid "Your EO-BOT tests every PHP snippet before switching it on and switches off any snippet that causes an error. If your site still shows an error, open this secret address: it switches off every PHP snippet. Keep it somewhere safe and do not share it."
+msgstr "Ton EO-BOT teste chaque snippet PHP avant de l’activer et désactive tout snippet qui provoque une erreur. Si ton site affiche quand même une erreur, ouvre cette adresse secrète : elle désactive tous les snippets PHP. Garde-la en lieu sûr et ne la partage pas."
+
+#: assets/js/widget.js
+msgid "Your conversations"
+msgstr "Tes conversations"
+
+#: includes/abilities/class-site-editor.php
+msgid "Your customizations of it are removed. You can undo it from the chat."
+msgstr "Tes personnalisations seront retirées. Tu pourras annuler depuis le chat."
+
+#: assets/js/widget.js
+msgid "Your message"
+msgstr "Ton message"
+
+#: includes/abilities/class-site-editor.php
+msgid "all pages"
+msgstr "toutes les pages"
+
+#: includes/abilities/class-content.php
+msgid "content"
+msgstr "le contenu"
+
+#: includes/abilities/class-content.php
+msgid "excerpt"
+msgstr "l’extrait"
+
+#: includes/abilities/class-content.php
+msgid "title"
+msgstr "le titre"
+
+#: includes/abilities/class-content.php
+#: includes/abilities/class-site-editor.php
+msgid "“%s” edited"
+msgstr "« %s » modifié"
+
+#: includes/abilities/class-content.php
+msgid "“%s” moved to the trash"
+msgstr "« %s » mis à la corbeille"
+
+#: includes/abilities/class-content.php
+msgid "“%s” published"
+msgstr "« %s » publié"
+
+#: includes/abilities/class-site-editor.php
+msgid "“%s” reset to the theme original"
+msgstr "« %s » remis comme dans le thème"
+
+#: includes/abilities/class-content.php
+msgid "“%s” unpublished"
+msgstr "« %s » dépublié"

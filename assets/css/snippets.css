@@ -1,0 +1,18 @@
+/* EO-BOTS snippets screen (EO-BOTS > Snippets). */
+.eobots-snippets { max-width: 960px; }
+.eobots-snippet,
+.eobots-safe,
+.eobots-snippets-empty { margin: 16px 0; padding: 16px 20px; border: 1px solid #dcdcde; border-left: 4px solid #c3c4c7; border-radius: 4px; background: #fff; }
+.eobots-snippet.is-active { border-left-color: #00a32a; }
+.eobots-snippet-head { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-start; justify-content: space-between; }
+.eobots-snippet h2,
+.eobots-safe h2 { margin: 0 0 4px; font-size: 15px; }
+.eobots-snippet-meta { margin: 0; }
+.eobots-tag { display: inline-block; padding: 1px 8px; border-radius: 10px; background: #f0f0f1; font-size: 12px; }
+.eobots-status { font-size: 12px; color: #646970; }
+.eobots-snippet.is-active .eobots-status { color: #007017; font-weight: 600; }
+.eobots-snippet-actions { display: flex; gap: 12px; align-items: center; }
+.eobots-snippet .notice { margin: 10px 0; }
+.eobots-snippet details summary { cursor: pointer; color: #2271b1; }
+.eobots-snippet pre { overflow: auto; max-height: 360px; margin: 8px 0 0; padding: 12px; border-radius: 4px; background: #1e1e1e; color: #f0f0f0; font-size: 12px; line-height: 1.5; }
+.eobots-safe { border-left-color: #dba617; }

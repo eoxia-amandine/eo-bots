@@ -1,0 +1,1130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EO-BOTS\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: assets/js/creator.js
+msgid "%1$s, your EO-BOT %2$s"
+msgstr ""
+
+#: includes/class-policy.php
+msgid "%1$s: “%2$s”"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "%s follows these notes in every conversation, for everyone on the site."
+msgstr ""
+
+#: includes/class-notes.php
+msgid "A note is %d characters at most: keep one short rule per note."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "A rule to follow, e.g. “Buttons always say Book now”"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "A text to proofread? Click me!"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "AI model"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Accessory"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Active"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Add"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Admin"
+msgstr ""
+
+#: includes/integrations/class-yoast.php
+msgid "Analyze the SEO of a page"
+msgstr ""
+
+#: includes/integrations/class-yoast.php
+msgid "Analyzing the SEO of the page…"
+msgstr ""
+
+#: includes/integrations/class-yoast.php
+msgid "Analyzing the SEO of your site…"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Animal"
+msgstr ""
+
+#: includes/class-agent.php
+msgid "Answer my question above first."
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Apple"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Ask %s…"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Automatic (recommended)"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Beanie"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Beret"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Bow"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Bowler hat"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Browsing the theme patterns…"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Building a menu…"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Cancel"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Cancelled, I did not touch anything."
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Careful: this code uses sensitive functions (%s). Only say yes if you trust what it does."
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Cat"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Checking the available blocks…"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Checking the design…"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Click to rename"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Close"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Color"
+msgstr ""
+
+#: assets/js/creator.js assets/js/widget.js
+msgid "Connect an AI"
+msgstr ""
+
+#: includes/class-rest.php
+msgid "Conversation not found."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Conversations"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Coral"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Create a draft"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Create a menu"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Create an “About” page"
+msgstr ""
+
+#: assets/js/creator.js includes/class-admin.php
+msgid "Create my EO-BOT"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Create your EO-BOT"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Crown"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Customize your EO-BOT"
+msgstr ""
+
+#: includes/class-design-charter.php
+msgid "Default template"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Delete"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Delete a snippet"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Delete the snippet “%s”"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Delete this conversation"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Delete this note"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Dog"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Done! Click me to see."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Done, you said yes."
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Done."
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Draft “%s” created"
+msgstr ""
+
+#: includes/abilities/class-registry.php includes/class-admin.php
+msgid "EO-BOTS"
+msgstr ""
+
+#: eo-bots.php
+msgid "EO-BOTS needs WordPress 7.0 or later."
+msgstr ""
+
+#: includes/class-snippets.php
+msgid "EO-BOTS safe mode"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "EO-BOTS snippets"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Edit"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Edit a menu"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Edit a snippet"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Edit a template"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Edit content"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Edit the active snippet “%s”"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Edit the menu “%s”"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Edit this note"
+msgstr ""
+
+#: includes/abilities/class-content.php
+#: includes/abilities/class-site-editor.php
+msgid "Edit “%s”"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Editing the code…"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Editing the page…"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Editing the template…"
+msgstr ""
+
+#: includes/abilities/class-memory.php
+msgid "Erasing the note…"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Everywhere"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Find block examples"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Finishing what I started…"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Fix the typos on this page"
+msgstr ""
+
+#: includes/integrations/class-yoast.php
+msgid "Focus keyphrase “%1$s” set on “%2$s”"
+msgstr ""
+
+#: includes/abilities/class-memory.php
+msgid "Forget a note"
+msgstr ""
+
+#: includes/abilities/class-memory.php
+msgid "Forget this note?"
+msgstr ""
+
+#: includes/abilities/class-memory.php
+msgid "Forgotten: “%s”"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Fox"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Glasses"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Ha ha!"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Headphones"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Hee hee!"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Hey! That tickles!"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Hey, click me to manage your site!"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Hi, I am %s!"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Hi, I am %s! What can I do for you?"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "I am getting bored… Shall we get to work?"
+msgstr ""
+
+#: includes/class-rest.php
+msgid "I am still working on your previous message. Give me a moment."
+msgstr ""
+
+#: includes/class-snippets.php
+msgid "I could not load your site to test the snippet, so I did not switch it on. Your server may block requests to itself."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "I could not open my memory."
+msgstr ""
+
+#: assets/js/creator.js
+msgid "I could not save. Try again."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "I could not undo this."
+msgstr ""
+
+#: includes/class-agent.php
+msgid "I did a lot of steps in a row, so I am pausing here. Tell me if I should go on."
+msgstr ""
+
+#: assets/js/creator.js
+msgid "I just need a spark: an AI!"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "I live in the bottom right corner of your screen, on every page of your site. Click me to talk to me!"
+msgstr ""
+
+#: includes/class-agent.php
+msgid "I need a little break. Try again in a few minutes."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "I need an AI to think. Click me!"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "I need your OK to go on!"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "I test your site with it first: if anything breaks, it stays off."
+msgstr ""
+
+#: includes/class-admin.php
+msgid "If your site breaks"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Improve this page"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Inactive"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "It is visible on your site. I will change: %s. The current version stays in the revisions."
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "It shows on every page that uses it. You can undo it from the chat."
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "It stops running. You can undo it from the chat."
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "It will be visible to every visitor."
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Lagoon"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Last error: %s"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Later"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Lavender"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Let’s go!"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "List available blocks"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "List block patterns"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "List content"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "List the menus"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "List the snippets"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "List the templates"
+msgstr ""
+
+#: assets/js/creator.js assets/js/widget.js
+msgid "Loading…"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Look at the site"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Looking around the site…"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Looking at the snippets…"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Looking at your content…"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Looking at your menus…"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Looking for examples on your site…"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Looking for images…"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Manage AI providers"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Memory"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Menu “%s” created"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Menu “%s” edited"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Mint"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Move to trash"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Move “%s” to the trash"
+msgstr ""
+
+#: assets/js/creator.js includes/class-admin.php
+msgid "My EO-BOT"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Name of your EO-BOT"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Need a new page? I can build it for you."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "New conversation"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "New links: %s."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "New note"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Next accessory"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Next animal"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Next color"
+msgstr ""
+
+#: assets/js/creator.js includes/class-agent.php includes/class-rest.php
+msgid "No AI provider is connected yet."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "No conversation yet."
+msgstr ""
+
+#: includes/class-admin.php
+msgid "No snippet yet. Ask your EO-BOT for example: “Hide the author name on blog posts” or “Add a shortcode that shows the current year”."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "No thanks"
+msgstr ""
+
+#: includes/abilities/class-memory.php
+msgid "Noted: “%s”"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Nothing"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Nothing yet."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Nothing yet. When %s gets something wrong, correct it and say “remember this”."
+msgstr ""
+
+#: assets/js/creator.js
+msgid "OK"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "One last thing: ask an administrator to connect an AI provider in Settings › Connectors."
+msgstr ""
+
+#: includes/class-agent.php
+msgid "Oops, I could not reach my AI. Try again in a moment."
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Opening the Site Editor…"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "PHP snippets are disabled on this site (file editing is turned off, or your account cannot edit plugins). CSS snippets still work."
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Panda"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Pick at random"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Previous accessory"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Previous animal"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Previous color"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Public site"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Publish or unpublish"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Publish “%s”"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Putting the blocks together…"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Rabbit"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Raspberry"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Read a block pattern"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Read a plugin guide"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Read a snippet"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Read a template"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Read content"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Read the theme styles"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Read theme or plugin code"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Reading a page…"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Reading the code…"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Reading the snippet…"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Reading the template…"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Reading the user guide…"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Reading your theme styles…"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Ready to help"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Rearranging the menu…"
+msgstr ""
+
+#: includes/abilities/class-memory.php
+msgid "Remember a note"
+msgstr ""
+
+#: includes/abilities/class-memory.php
+msgid "Remember this for the whole site?"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Reset a template"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Reset “%s” to the theme original"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Restoring the theme original…"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Review the design"
+msgstr ""
+
+#: includes/integrations/class-yoast.php
+msgid "SEO report of the site"
+msgstr ""
+
+#: includes/class-snippets.php
+msgid "Safe mode: %d PHP snippet(s) switched off. Your site works without them now."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Save"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Saved"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Search the media library"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Search theme or plugin code"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Searching the code…"
+msgstr ""
+
+#: assets/js/widget.js includes/class-admin.php
+msgid "See the code"
+msgstr ""
+
+#: includes/class-admin.php includes/class-snippets.php
+msgid "See the snippets"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Send"
+msgstr ""
+
+#: includes/integrations/class-yoast.php
+msgid "Set the focus keyphrase"
+msgstr ""
+
+#: includes/integrations/class-yoast.php
+msgid "Setting the focus keyphrase…"
+msgstr ""
+
+#: includes/class-policy.php
+msgid "Settings changed: %s."
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Sheep"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Show me around my site"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Slate"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Small pieces of code your EO-BOT wrote for this site. They are kept here, not in your theme, so updates do not erase them. Ask your EO-BOT in the chat to write or change one."
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Snippet “%s” deleted"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Snippet “%s” edited"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Snippet “%s” switched off"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Snippet “%s” switched on"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Snippet “%s” written (switched off)"
+msgstr ""
+
+#: includes/class-admin.php includes/class-snippets.php
+msgid "Snippets"
+msgstr ""
+
+#: assets/js/creator.js assets/js/widget.js
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Sorry, you are not allowed to do that."
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Stay here"
+msgstr ""
+
+#: includes/abilities/class-site.php
+msgid "Studying a pattern…"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Sum up this page"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Sunshine"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Surprise!"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Switch a snippet on or off"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Switch off"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Switch off the snippet “%s”"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Switch on"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Switch on the snippet “%s”"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Talk to %s"
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Tangerine"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Testing the snippet on your site…"
+msgstr ""
+
+#: includes/class-admin.php includes/class-snippets.php
+msgid "The folder %s cannot be written, so PHP snippets cannot run."
+msgstr ""
+
+#: includes/class-notes.php
+msgid "The memory is full (%d notes). Delete or merge some notes first."
+msgstr ""
+
+#: includes/class-notes.php
+msgid "The note is empty."
+msgstr ""
+
+#: includes/class-snippets.php
+msgid "The snippet breaks the site, so I changed nothing: %s"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "The snippet could not be deleted."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Thinking…"
+msgstr ""
+
+#: includes/class-journal.php
+msgid "This action cannot be undone."
+msgstr ""
+
+#: includes/class-agent.php
+msgid "This action is no longer waiting for an answer."
+msgstr ""
+
+#: includes/class-journal.php
+msgid "This action no longer exists."
+msgstr ""
+
+#: includes/class-rest.php
+msgid "This model is not available."
+msgstr ""
+
+#: includes/class-notes.php
+msgid "This note no longer exists."
+msgstr ""
+
+#: includes/abilities/class-code.php includes/abilities/class-content.php
+msgid "Tidying up…"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "To think, %s needs an AI. Connect a provider (Anthropic, OpenAI or Google) with your API key in Settings › Connectors. One key is enough for the whole site."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "To think, I need an AI. Ask an administrator to connect one in Settings › Connectors."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "To think, I need an AI. Connect a provider with your API key, it takes two minutes."
+msgstr ""
+
+#: includes/class-avatar.php
+msgid "Top hat"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Try again"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Undo"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Undone"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Unpublish “%s”"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Updating the status…"
+msgstr ""
+
+#: assets/js/creator.js
+msgid "Used by the EO-BOTS of every user on this site. A bigger model is smarter but uses more credits."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "View"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "Visitors will no longer see it."
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Visitors will see the change right away."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Waiting for an AI"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "What can you do?"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "What it does will stop right away."
+msgstr ""
+
+#: includes/abilities/class-registry.php
+msgid "What your EO-BOT can do on the site."
+msgstr ""
+
+#: includes/class-rest.php
+msgid "Write a message first."
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Write a snippet"
+msgstr ""
+
+#: includes/abilities/class-code.php
+msgid "Writing code…"
+msgstr ""
+
+#: includes/abilities/class-memory.php
+msgid "Writing it down…"
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Yes, go ahead"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "You can also add <code>define( 'EOBOTS_SAFE_MODE', true );</code> to wp-config.php."
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "You can restore it from the trash for 30 days."
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Your EO-BOT is waiting to be created."
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Your EO-BOT needs JavaScript to come to life."
+msgstr ""
+
+#: includes/class-snippets.php
+msgid "Your EO-BOT switched off the snippet that caused this error. Reload the page."
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Your EO-BOT switched off the snippet “%1$s” because it caused an error: %2$s"
+msgstr ""
+
+#: includes/class-admin.php
+msgid "Your EO-BOT tests every PHP snippet before switching it on and switches off any snippet that causes an error. If your site still shows an error, open this secret address: it switches off every PHP snippet. Keep it somewhere safe and do not share it."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Your conversations"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "Your customizations of it are removed. You can undo it from the chat."
+msgstr ""
+
+#: assets/js/widget.js
+msgid "Your message"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "all pages"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "content"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "excerpt"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "title"
+msgstr ""
+
+#: includes/abilities/class-content.php
+#: includes/abilities/class-site-editor.php
+msgid "“%s” edited"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "“%s” moved to the trash"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "“%s” published"
+msgstr ""
+
+#: includes/abilities/class-site-editor.php
+msgid "“%s” reset to the theme original"
+msgstr ""
+
+#: includes/abilities/class-content.php
+msgid "“%s” unpublished"
+msgstr ""
